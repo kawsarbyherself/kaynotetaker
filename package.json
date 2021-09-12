@@ -1,0 +1,17 @@
+{
+  "name": "kaynotetaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "Express",
+    "start": "node server"
+  },
+  "author": "kawsarbyherself",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "util": "^0.12.4",
+    "uuid": "^8.3.2"
+  }
+}
